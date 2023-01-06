@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,css,html,js,md,netlify,py,vim,vscode," />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=github,css,html,js,md,netlify,py,vim,vscode," />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusterSR)](https://github.com/anuraghazra/github-readme-stats)
 
