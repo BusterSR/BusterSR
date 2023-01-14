@@ -1,6 +1,6 @@
 # Buster Senior
 
-![](https://komarev.com/ghpvc/?username=BusterSR&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=BusterSR&style=for-the-badge&color=brightgreen)
 
 <img src="https://skillicons.dev/icons?i=github,css,html,js,md,netlify,py,vim,vscode," />
 
