@@ -1,4 +1,5 @@
 # Buster Senior
+I like coding stuff
 
 ![](https://komarev.com/ghpvc/?username=BusterSR&style=for-the-badge&color=brightgreen)
 
