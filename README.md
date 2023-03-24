@@ -1,5 +1,5 @@
 # Buster Senior
-I like coding stuff
+I like web development
 
 ![](https://komarev.com/ghpvc/?username=BusterSR&style=for-the-badge&color=brightgreen)
 
