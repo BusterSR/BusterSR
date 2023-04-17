@@ -1,7 +1,7 @@
 # Buster Senior
 I like web development
 
-Join Global CSS Art an open css community https://github.com/VulcanWM/global-css-art
+Join Global CSS Art an open source css community https://github.com/VulcanWM/global-css-art
 
 ![](https://komarev.com/ghpvc/?username=BusterSR&style=for-the-badge&color=brightgreen)
 
