@@ -1,2 +1,2 @@
-# Buster Senior
-I like web development
+# Joseph Cardona
+I like coding
